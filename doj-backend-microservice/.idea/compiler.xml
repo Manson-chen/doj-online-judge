@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="doj-backend-question-service" />
+        <module name="doj-backend-service-client" />
+        <module name="doj-backend-model" />
+        <module name="doj-backend-judge-service" />
+        <module name="doj-backend-common" />
+        <module name="doj-backend-gateway" />
+        <module name="doj-backend-user-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="doj-backend-gateway" options="" />
+      <module name="doj-backend-judge-service" options="" />
+      <module name="doj-backend-question-service" options="" />
+      <module name="doj-backend-service-client" options="" />
+      <module name="doj-backend-user-service" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 62.234.8.36:8848
+    gateway:
+      routes:
+        - id: doj-backend-user-service
+          uri: lb://doj-backend-user-service
+          predicates:
+            - Path=/api/user/**
+        - id: doj-backend-question-service
+          uri: lb://doj-backend-question-service
+          predicates:
+            - Path=/api/question/**
+        - id: doj-backend-judge-service
+          uri: lb://doj-backend-judge-service
+          predicates:
+            - Path=/api/judge/**
+  application:
+    name: doj-backend-gateway
+  main:
+    web-application-type: reactive
+    allow-bean-definition-overriding: true
+server:
+  port: 8101
+knife4j:
+  gateway:
+    # ? ????????gateway????
+    enabled: true
+    # ? ??????????????discover???????
+    strategy: discover
+    discover:
+      # ? ????????discover??
+      enabled: true
+      # ? ??????????????Swagger2?????
+      version: swagger2

@@ -1,0 +1,7 @@
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-user-service/src/main/java/com/jd/dojbackenduserservice/DojBackendUserServiceApplication.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-user-service/src/main/java/com/jd/dojbackenduserservice/mapper/UserMapper.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-user-service/src/main/java/com/jd/dojbackenduserservice/service/impl/UserServiceImpl.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-user-service/src/main/java/com/jd/dojbackenduserservice/service/UserService.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-user-service/src/main/java/com/jd/dojbackenduserservice/controller/inner/UserInnerController.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-user-service/src/main/java/com/jd/dojbackenduserservice/controller/UserController.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-user-service/src/main/java/com/jd/dojbackenduserservice/config/MyBatisPlusConfig.java

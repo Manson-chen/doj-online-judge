@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="205121de-3a34-4dbd-8de7-1878c2505ce0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2UnELbFtVW1w7SEtj1hJ6byuLjt" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DockerDemo">
+    <configuration name="DockerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jd.dojcodesandbox.docker.DockerDemo" />
+      <module name="doj-code-sandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd.dojcodesandbox.docker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ubuntu remote" type="Remote">
+      <module name="doj-code-sandbox" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="172.16.33.133" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="DojCodeSandboxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="doj-code-sandbox" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jd.dojcodesandbox.DojCodeSandboxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DockerDemo" />
+      <item itemvalue="Remote JVM Debug.ubuntu remote" />
+      <item itemvalue="Spring Boot.DojCodeSandboxApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DockerDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="205121de-3a34-4dbd-8de7-1878c2505ce0" name="Changes" comment="" />
+      <created>1693566888697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693566888697</updated>
+      <workItem from="1693566890984" duration="211000" />
+      <workItem from="1693567131779" duration="3539000" />
+      <workItem from="1693579935703" duration="542000" />
+      <workItem from="1693582422820" duration="1583000" />
+      <workItem from="1693622745584" duration="6037000" />
+      <workItem from="1693639733993" duration="794000" />
+      <workItem from="1693642341230" duration="1111000" />
+      <workItem from="1693646779718" duration="948000" />
+      <workItem from="1693752333608" duration="16000" />
+      <workItem from="1693752355000" duration="9000" />
+      <workItem from="1693752799986" duration="20000" />
+      <workItem from="1693753567385" duration="23000" />
+      <workItem from="1693753638212" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

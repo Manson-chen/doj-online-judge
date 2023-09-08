@@ -1,0 +1,5 @@
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-gateway/src/main/java/com/jd/dojbackendgateway/config/GatewayConfig.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-gateway/src/main/java/com/jd/dojbackendgateway/filter/GlobalAuthFilter.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-gateway/src/main/java/com/jd/dojbackendgateway/config/CorsConfig.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-gateway/src/main/java/com/jd/dojbackendgateway/DojBackendGatewayApplication.java
+/Users/jiandongchen/Desktop/Java/yupi/oj/doj-backend-microservice/doj-backend-gateway/src/main/java/com/jd/dojbackendgateway/handler/MyBlockRequestHandler.java

@@ -32,6 +32,7 @@
 
 - Docker
 - MySQL
+- MyBatis Plus
 - Redis
 - RabbitMQ
 - 设计模式
@@ -89,7 +90,7 @@
 
 #### 浏览题目
 
-​	![image-20230909150959135](README.assets/image-20230909150959135.png)
+​	![image-20230909232922125](README.assets/image-20230909232922125.png)
 
 #### 浏览题目提交
 

@@ -40,7 +40,7 @@
               record.submitNum
                 ? ((record.acceptedNum / record.submitNum) * 100).toFixed(2)
                 : "0"
-            } % (${record.acceptedNum}/${record.submitNum})`
+            }% (${record.acceptedNum}/${record.submitNum})`
           }}
         </a-space>
       </template>

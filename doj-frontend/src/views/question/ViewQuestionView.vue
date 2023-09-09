@@ -99,7 +99,13 @@ const loadData = async () => {
 
 const form = ref<QuestionSubmitAddRequest>({
   language: "java",
-  code: "",
+  // todo 需要根据题目和语言动态改变
+  code:
+    "public class Main {\n" +
+    "    public static void main(String[] args) {\n" +
+    "\n" +
+    "    }\n" +
+    "}",
 });
 
 /**

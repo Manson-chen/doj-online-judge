@@ -19,7 +19,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://62.234.8.36:3306/doj
     username: root
-    password: Qwertyuiop123?
+    password: abc123456?
   # Redis 配置
   redis:
     database: 1

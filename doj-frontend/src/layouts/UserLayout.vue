@@ -10,7 +10,15 @@
       <a-layout-content class="content">
         <router-view />
       </a-layout-content>
-      <a-layout-footer class="footer">doj by Jiandong</a-layout-footer>
+      <a-layout-footer class="footer">
+        <div>
+          <icon-copyright />
+          2023 DOJ在线编程 |
+          <a-link href="https://beian.miit.gov.cn/" target="_blank"
+            >粤ICP备2023104750号-1
+          </a-link>
+        </div>
+      </a-layout-footer>
     </a-layout>
   </div>
 </template>
@@ -53,4 +61,10 @@
   text-align: center;
 }
 </style>
-<script></script>
+<script>
+import { IconCopyright } from "@arco-design/web-vue/es/icon";
+
+export default {
+  components: { IconCopyright },
+};
+</script>

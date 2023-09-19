@@ -7,7 +7,15 @@
       <a-layout-content class="content">
         <router-view />
       </a-layout-content>
-      <a-layout-footer class="footer">doj by Jiandong</a-layout-footer>
+      <a-layout-footer class="footer">
+        <div>
+          <icon-copyright />
+          2023 DOJ在线编程 |
+          <a-link href="https://beian.miit.gov.cn/" target="_blank"
+            >粤ICP备2023104750号-1
+          </a-link>
+        </div>
+      </a-layout-footer>
     </a-layout>
   </div>
 </template>
@@ -28,7 +36,7 @@
 }
 
 #basicLayout .footer {
-  background: #efefef;
+  background: rgb(255, 255, 255);
   padding: 16px;
   position: sticky;
   bottom: 0;
@@ -39,8 +47,9 @@
 </style>
 <script>
 import GlobalHeader from "@/components/GlobalHeader";
+import { IconCopyright } from "@arco-design/web-vue/es/icon";
 
 export default {
-  components: { GlobalHeader },
+  components: { GlobalHeader, IconCopyright },
 };
 </script>

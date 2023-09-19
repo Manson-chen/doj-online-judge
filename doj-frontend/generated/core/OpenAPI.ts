@@ -20,7 +20,9 @@ export type OpenAPIConfig = {
 };
 
 export const OpenAPI: OpenAPIConfig = {
-  BASE: "http://localhost:8101",
+  // BASE: "http://localhost:8101",
+  // BASE: "http://62.234.8.36:8101",
+  BASE: "http://doj-backend.valechat.site",
   VERSION: "1.0",
   WITH_CREDENTIALS: true,
   CREDENTIALS: "include",

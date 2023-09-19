@@ -10,9 +10,7 @@
   - 系统后端：根据管理员预设的题目测试用例在自主实现的代码沙箱中对代码进行编译、运行、判断输出结果。
   - 代码沙箱：可作为独立服务，提供给开发者使用（可与 API 接口开放平台结合 https://github.com/Manson-chen/api-platform-backend）
 
-> 在线访问地址：http://doj.valechat.site/
->
-> （旧：http://62.234.8.36:8100/）
+> 在线访问地址：http://doj.valechat.site/  （旧：http://62.234.8.36:8100/）
 >
 > 管理员账号：jiandong，密码：abc123456
 
